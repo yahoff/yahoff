@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yahoff
-- 👀 I’m interested in pharmacometrics, more specifically in population-based PK and PD modeling
-- 🌱 I’m currently learning new modeling and simulation approaches to enhance model-informed precision dosing of immunosuppressants
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in pharmacometrics, more specifically in population-based PK, PD, and TTE modeling. I use pharmacometrics approaches to support therapy individualization in gastroenterological disorders.
+    Recently, I started developing software tools in RShiny, to support clinical decision making.
+
+
 
 <!---
 yahoff/yahoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
